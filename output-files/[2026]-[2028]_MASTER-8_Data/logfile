@@ -1,0 +1,87 @@
+#<logfile>-------------------------------------------------------------
+
+                                       @
+           @;@@                        @                       `@#:;
+           #,:;#@                      @                      @+':,,
+            @:;;;@#                    @                    @#;;;;@
+            `#;;;;;@`                  @                  ,@;;;;;@
+             ;;;;;;;#@                 @                 @+;;;;;#`
+              #;;;;;;;@`               @               ,@;;;;;;#,
+               #;;;;;;;#+              @              @+;;;;;;#:
+                ++;;;;;;;@             @             @;;;;;;;#:
+                 ;#;;;;;;;@:           @           +#;;;;;;;@.
+                  :#;;;;;;;+@          @          @;;;;;;;;@`
+                   .@;;;;;;;;@         @        `@;;;;;;;;@
+            ,@@@+;`  @;;;;;;;;@.       @       ;#;;;;;;;;@  `;+@@@
+            :#;;;;;#@@@;;;;;;;;+#      @      @;;;;;;;;;@@@#;;;;;@`
+              @@;;;;;;;;;;;;;;;;;@     @     @;;;;;;;;;;;;;;;;+@@
+                .@@#;;;;;;;;;;;;;;@`   @   :@;;;;;;;;;;;;;;#@@`
+                    :@@@;;;;;;;;;;;#+  @  @+;;;;;;;;;;+@@@,
+                         ;@@@#;;;;;;;@ @ @;;;;;;;#@@@;
+                              `;@@@#;;@@@;+#@@@;`
+     ,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#
+  .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@`
+`````````````````````````````````````````````````````````````````````````
+          __/_/  __/__/  __/__/   _/__/_/ __/__/__/ __/__/__/ __/_/__/
+         __/ _/__/ __/ __/   __/ __/        __/    __/       __/    __/
+        __/  __/  __/ __/__/__/  __/__/    __/    __/__/    __/_/__/
+       __/       __/ __/   __/      __/   __/    __/       __/    __/
+      __/       __/ __/   __/ _/__/_/    __/    __/__/__/ __/     __/
+
+__ ESA Meteoroid & Space Debris Terrestrial Environment Reference Model __
+               -- Command Line Tool v8.0.2 (Build 2004) --
+
+Reading from path configuration file 'master.cfg'.
+Reading from main user input file 'master.inp'.
+Scanning datafiles for most recent reference population...
+Fetching population files: Man-made Population...
+Most recent reference epoch: 2016/11
+Spatial density scenario
+Reading from propagation parameter file [2026]-[2028]_MASTER-8_Data/input/focus/
+focus.prm
+File operation successful (79) OPENED [2026]-[2028]_MASTER-8_Data/input/focus/fo
+cus.prm
+Uncertainty indicators available!
+Reading from distribution definition file 'default.def'.
+[[
+REMARK in subroutine rddef:
+  Auto switch: Basic settings in 'master.inp' replace definitions in
+  'default.def' in the following plot(s): 's.d. mass'
+]]
+Reading from future constellation traffic file 'default.con'.
+Now processing 'Man-made Population' ...
+Reading probability table header from /run/media/linux/Backup_Plus/neededFiles/d
+ata/cond_20251101_01_leo.prb.
+Reading probability table header from /run/media/linux/Backup_Plus/neededFiles/d
+ata/cond_20261101_01_leo.prb.
+Reading probability table header from /run/media/linux/Backup_Plus/neededFiles/d
+ata/cond_20271101_01_leo.prb.
+Reading probability table header from /run/media/linux/Backup_Plus/neededFiles/d
+ata/cond_20281101_01_leo.prb.
+Reading probability table header from /run/media/linux/Backup_Plus/neededFiles/d
+ata/cond_20251101_01_meo.prb.
+Reading probability table header from /run/media/linux/Backup_Plus/neededFiles/d
+ata/cond_20261101_01_meo.prb.
+Reading probability table header from /run/media/linux/Backup_Plus/neededFiles/d
+ata/cond_20271101_01_meo.prb.
+Reading probability table header from /run/media/linux/Backup_Plus/neededFiles/d
+ata/cond_20281101_01_meo.prb.
+Reading probability table header from /run/media/linux/Backup_Plus/neededFiles/d
+ata/cond_20251101_01_geo.prb.
+Reading probability table header from /run/media/linux/Backup_Plus/neededFiles/d
+ata/cond_20261101_01_geo.prb.
+Reading probability table header from /run/media/linux/Backup_Plus/neededFiles/d
+ata/cond_20271101_01_geo.prb.
+Reading probability table header from /run/media/linux/Backup_Plus/neededFiles/d
+ata/cond_20281101_01_geo.prb.
+Now processing 'Meteoroid Background' ...
+
+Now final processing and writing output to files ...
+ _________________________________________________________________________
+
+
+ _________________________________________________________________________
+         *************** MASTER issued remarks! **************
+ _________________________________________________________________________
+
+
