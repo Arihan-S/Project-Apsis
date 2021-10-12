@@ -17,3 +17,8 @@ The data in this repository as well as the included user-scripts require a worki
 Disclaimer: The code used for this project was intended only for use within this project, and as such the documentation and code is not "production ready". However, feel free to use the code as detailed under the GPL-3.0 License and I am happy to address any questions or concerns to the best of my ability at arihan.srirangapatnam@gmail.com.
       
 In regards to installation, the only application that need to be installed is the MASTER-8 tool suite, which is available on the Space Debris User Portal as well as installation instructions. Otherwise, the user-scripts only need to be placed in the installation directory of the application and run from there.
+
+       
+## Questions & Concerns
+  
+Please contact me at arihan.srirangapatnam@gmail.com if you have any questions or concerns regarding this project. 
