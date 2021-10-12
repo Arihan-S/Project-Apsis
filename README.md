@@ -13,4 +13,4 @@ The data in this repository as well as the included user-scripts require a worki
     
 ### Installation & Usage 
   
-Disclaimer: The code used for this project was intended only for use within this project, and as such the documentation and code is not "production ready". However, feel free to use the code as detailed under the GPL-3.0 License and I am happy to address any questions or concerns to the best of my ability at Arihan.Srirangapatnam@gmail.com.
+Disclaimer: The code used for this project was intended only for use within this project, and as such the documentation and code is not "production ready". However, feel free to use the code as detailed under the GPL-3.0 License and I am happy to address any questions or concerns to the best of my ability at arihan.srirangapatnam@gmail.com.
